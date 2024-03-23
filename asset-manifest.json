@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JourneyOfVinay/static/css/main.88e9a2ce.css",
+    "main.js": "/JourneyOfVinay/static/js/main.891c2b6d.js",
+    "static/js/453.37b07444.chunk.js": "/JourneyOfVinay/static/js/453.37b07444.chunk.js",
+    "index.html": "/JourneyOfVinay/index.html",
+    "main.88e9a2ce.css.map": "/JourneyOfVinay/static/css/main.88e9a2ce.css.map",
+    "main.891c2b6d.js.map": "/JourneyOfVinay/static/js/main.891c2b6d.js.map",
+    "453.37b07444.chunk.js.map": "/JourneyOfVinay/static/js/453.37b07444.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e9a2ce.css",
+    "static/js/main.891c2b6d.js"
+  ]
+}
